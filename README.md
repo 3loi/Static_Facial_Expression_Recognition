@@ -1,6 +1,6 @@
 # Static_Facial_Expression_Recognition
 
-Contains API to use a VGG model trained on recognizing four primary emotional classes (happiness, sadness, anger, neutral).
+Contains code to use a VGG model trained AffectNet to recognize four primary emotional classes (happiness, sadness, anger, neutral).
 
 The code was developed using Tensorflow, Keras and OpenCV.
 1. Tensorflow 1.14.0
