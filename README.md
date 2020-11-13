@@ -10,6 +10,6 @@ The code was developed using Tensorflow, Keras and OpenCV.
 
 To use the model in python look at demo.py
 
-To quickly run the model on a set of images, you can run via command line.
+To quickly run the model on a set of images, you can run via command line. Note that the inference results will be saved in results.txt in the same directory as program file (run_model.py)
 
 >python3.6 run_model.py directory_of_images
