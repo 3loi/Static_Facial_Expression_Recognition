@@ -22,7 +22,6 @@ import cv2
 import json
 from shutil import rmtree
 from config import affectnet_config as config
-from pyimagesearch.io import DatasetGenerator
 from pyimagesearch.preprocessing import AspectAwarePreprocessor, ImageToArrayPreprocessor, SimplePreprocessor, MeanPreprocessor, CropPreprocessor
 from keras.models import load_model
 
