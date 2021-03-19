@@ -14,22 +14,9 @@ VAL_HDF5 = "../test4emo.hdf5"
 TEST_HDF5 = "../test4emo.hdf5"
 
 # path to the output model file
-#MODEL_PATH = "output/vggface_4emo_73.model"
-MODEL_CONTINUE_PATH = "continue.model"
-MODEL_PATH = "continue.model"
 MODEL_PATH = "output/affectnet_4emo2.model"
 
-
-MODEL_PATH_TRAIN = "/media/a/storage/4emo_train_vgg.hdf5"
-MODEL_PATH_VAL = "/media/a/storage/4emo_val_vgg.hdf5"
-
-MODEL_PATH_TRAIN = "/media/a/storage/4emo_train.hdf5"
-MODEL_PATH_VAL = "/media/a/storage/4emo_val.hdf5"
-
-MODEL_PATH_TRAIN = "/home/a/Desktop/train4emo.hdf5"
-MODEL_PATH_VAL = "/home/a/Desktop/test4emo.hdf5"
 BATCH_SIZE = 64
-EPOCHS = 50
 
 IMAGE_WIDTH = 227 
 IMAGE_HEIGHT = 227
